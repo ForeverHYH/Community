@@ -1,0 +1,24 @@
+C:\Users\danielqiu\Documents\Visual Studio 2013\Projects\Server\Server\bin\Server.dll.config
+C:\Users\danielqiu\Documents\Visual Studio 2013\Projects\Server\Server\bin\Server.dll
+C:\Users\danielqiu\Documents\Visual Studio 2013\Projects\Server\Server\bin\Server.pdb
+C:\Users\danielqiu\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\danielqiu\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.dll
+C:\Users\danielqiu\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\胡永豪\Desktop\小区\Server\Server\bin\Server.dll.config
+C:\Users\胡永豪\Desktop\小区\Server\Server\bin\Server.dll
+C:\Users\胡永豪\Desktop\小区\Server\Server\bin\Server.pdb
+C:\Users\胡永豪\Desktop\小区\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\胡永豪\Desktop\小区\Server\Server\obj\Debug\Server.dll
+C:\Users\胡永豪\Desktop\小区\Server\Server\obj\Debug\Server.pdb
+C:\visual studio 2013\Projects\Community\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\visual studio 2013\Projects\Community\Server\Server\obj\Debug\Server.dll
+C:\visual studio 2013\Projects\Community\Server\Server\obj\Debug\Server.pdb
+C:\visual studio 2013\Projects\Community\Server\Server\bin\Server.dll.config
+C:\visual studio 2013\Projects\Community\Server\Server\bin\Server.dll
+C:\visual studio 2013\Projects\Community\Server\Server\bin\Server.pdb
+C:\Users\danielqiu\Desktop\Community\Server\Server\bin\Server.dll.config
+C:\Users\danielqiu\Desktop\Community\Server\Server\bin\Server.dll
+C:\Users\danielqiu\Desktop\Community\Server\Server\bin\Server.pdb
+C:\Users\danielqiu\Desktop\Community\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\danielqiu\Desktop\Community\Server\Server\obj\Debug\Server.dll
+C:\Users\danielqiu\Desktop\Community\Server\Server\obj\Debug\Server.pdb
